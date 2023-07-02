@@ -1,5 +1,5 @@
 # exampleSite/config.yaml
-baseURL: https://uhnari.xyz/ # Replace with your domain
+baseURL: https://uhnari.netlify.app/ # Replace with your domain
 languageCode: en-us
 theme: smigle
 title: Uhnari
