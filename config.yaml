@@ -28,10 +28,10 @@ menu:
       url: /categories/articles
       weight: 3 
 
-    - identifier:
-      name:
-      url:
-      weight:
+    - identifier: wiki
+      name: Wiki
+      url: /categories/wiki
+      weight: 4
 
 #PROFFESIONAL
     - identifier: services
@@ -39,7 +39,7 @@ menu:
       url: /services/
       weight: 7
     - identifier: about
-      name: About/Contact
+      name: About
       url: /about/
       weight: 6
 
