@@ -1,6 +1,7 @@
 Usefull commands for running site:
 
 Push changes to repo:
+
     git add FILENAME
     git commit -m "message"
     git push origin master
