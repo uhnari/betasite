@@ -14,8 +14,8 @@ categories:
   - aetherseries
   - fiction
 ---
->> ### [Chapter 1]({{< ref "aech1" >}}) < Chapter 2 > 
+### [Chapter 1]({{< ref "aech1" >}}) < Chapter 2 > 
  
  ERROR L0L. Come back later. I can only do so much in a week.
 
->> ### [Chapter 1]({{< ref "aech1" >}}) < Chapter 2 > 
+### [Chapter 1]({{< ref "aech1" >}}) < Chapter 2 > 

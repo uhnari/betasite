@@ -14,7 +14,7 @@ categories:
   - aetherseries
   - fiction
 ---
->> ### By [Robert Uhnari]({{< ref "/about" >}}) < Synopsis > [Chapter One]({{< ref "aech1" >}})
+### By [Robert Uhnari]({{< ref "/about" >}}) < Synopsis > [Chapter One]({{< ref "aech1" >}})
 
 Years ago, the world was thrown into chaos when meteors, full of a mysterious energy called Aether, rained from the sky. Destroying cities, mutating plants and animals, and thrusting humanity into a gold rush to harvest this new energy, and the creatures it mutates, for their own gain.
 
@@ -28,4 +28,4 @@ Years ago, the world was thrown into chaos when meteors, full of a mysterious en
 
 &ensp; Someone wants her dead, and they want it done in secret.
 
->> ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})

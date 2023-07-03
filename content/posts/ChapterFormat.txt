@@ -14,7 +14,6 @@ categories:
   - aetherseries
   - fiction
 ---
->> ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
 
-
->> ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+ ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})

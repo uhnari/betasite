@@ -14,7 +14,7 @@ categories:
   - aetherseries
   - fiction
 ---
->> ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
 
 “Hi. I’m Rachel. Two and a half years ago, I was drafted into the military—Remember the good ol’ days? Before corporations bought out the government?…”
 
@@ -229,4 +229,4 @@ The young major Sanders enters colonel Dunn’s office with the news the older m
 
 &ensp; As soon as he clears his boss’s office, and is sure no one could see him, Sanders allows himself a small smile. The old man was losing it. So long as Sanders kept his ass covered, he should get the colonel’s job even sooner than he thought.
 
->> ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
