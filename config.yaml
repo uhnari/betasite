@@ -16,32 +16,28 @@ menu:
     - identifier: archive
       name: Archive
       url: /posts/
-      weight: 4
+      weight: 6
 
-    - identifier: stories
-      name: Stories
-      url: /categories/stories/
-      weight: 2
-
-    - identifier: articles
-      name: Articles
-      url: /categories/articles
-      weight: 3 
-
-    - identifier: wiki
-      name: Wiki
-      url: /categories/wiki
-      weight: 4
+    - identifier: aether series
+      name: Aether Series
+      url: /categories/aetherseries/
+      weight: 5
 
 #PROFFESIONAL
     - identifier: services
       name: Services
       url: /services/
-      weight: 7
+      weight: 3
+
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 4
+
     - identifier: about
       name: About
       url: /about/
-      weight: 6
+      weight: 2
 
 #SEARCH
     - identifier: categories
@@ -54,9 +50,10 @@ menu:
       weight: 9
 params:
   abbrDateFmt: "Jan 02"
-  author: "Uhnari"
+  author: "Robert Uhnari"
   brandIconFile: "images/profile.gif"
   dateFmt: "Monday, 2006-01-02"
+  subtitle: "Freelance Writer and Novelist"
 #  customStylesheets: # Use to override theme styles, like logo size
 #    - "css/custom.css"
   social:
@@ -65,5 +62,4 @@ params:
     - name: Critique Circle
       url: https://www.critiquecircle.com/u/Uhnari
     - name:
-      url:
-  subtitle: "Freelance Writer and Novelist"  
+      url:  
