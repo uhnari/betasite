@@ -1,3 +1,36 @@
+{{/*
+  Determine the reading time duration
+
+  Duration is calculated either
+    - automatically by Hugo
+    - by arithmetic using a user-provided reading speed
+    - by arithmetic using two user-provided reading speeds that elict min and
+      max durations
+*/}}
+{{ $duration := "" }}
+{{ $speedSingle := default 1 (.Param "readingspeed") }}
+{{ $speedMin := default 1 (.Param "readingspeedmin") }}
+{{ $speedMax := default 1 (.Param "readingspeedmax") }}
+{{ $durationSingle := math.Max 1 (div .WordCount $speedSingle) }}
+{{ $durationMin := math.Max 1 (div .WordCount $speedMax) }}
+{{ $durationMax := math.Max 1 (div .WordCount $speedMin) }}
+{{ $durationRange := cond
+  (eq $durationMin $durationMax)
+  $durationMin
+  (print $durationMin "-" $durationMax)
+}}
+{{ if .Params.readingSpeedMin | and .Params.readingSpeedMax }}
+  {{ $duration = $durationRange }}
+{{ else if .Params.readingSpeed }}
+  {{ $duration = $durationSingle }}
+{{ else if .Site.Params.readingSpeedMin | and .Site.Params.readingSpeedMax }}
+  {{ $duration = $durationRange }}
+{{ else if .Site.Params.readingSpeed }}
+  {{ $duration = $durationSingle }}
+{{ else }}
+  {{ $duration = .ReadingTime }}
+{{ end }}
+
 <div class="post-meta">
   <strong>
     <span>Posted on</span>
@@ -8,8 +41,8 @@
       <a href="{{ "/categories/" | relLangURL }}{{ $value | urlize }}">{{ . }}</a>
     {{- end }}
   </strong>
-  {{ with .WordCount }}<span> • {{ . }} words</span>{{ end }}
-  {{ with .ReadingTime}}<span> • {{ . }} minute read</span>{{ end }}
+ {{ with .WordCount }}<span> • {{ . }} words</span>{{ end }}
+ {{ with .ReadingTime}}<span> • {{ $duration }} minute read</span>{{ end }}
   {{ with .Params.tags }}
     <div>
       <span>Tags:</span>

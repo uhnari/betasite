@@ -1,5 +1,6 @@
 ---
-title: "Aether, Book One: Fugitive, Chapter One."
+title: "Aether, Book One: Fugitive, Chapter One"
+subtitle:
 date: 2023-07-01 01:00:00-04:00
 draft: false
 tags:
@@ -13,6 +14,9 @@ tags:
 categories:
   - aetherseries
   - fiction
+readingSpeedMin: 200
+readingSpeedMax: 250
+
 ---
 ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
 

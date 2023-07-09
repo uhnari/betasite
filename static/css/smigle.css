@@ -25,14 +25,25 @@
   font-weight: normal;
 }
 #brand .icon {
-  width: 80px;
-}i
+  width: 75px;
+}
 footer {
   margin-top: 30px;
 }
 header nav {
   margin: 15px 0;
 }
+h1.title {
+  margin: 1.3rem 0 0 0;
+}
+h3.subtitle {
+  font-weight: normal;
+  margin: 0;
+}
+div.post-meta {
+  margin-top: 1.3rem;
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   #root {

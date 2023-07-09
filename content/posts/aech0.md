@@ -28,4 +28,4 @@ Years ago, the world was thrown into chaos when meteors, full of a mysterious en
 
 &ensp; Someone wants her dead, and they want it done in secret.
 
-### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [By Robert Uhnari]({{< ref "/about" >}}) < Synopsis > [Chapter 1]({{< ref "aech1" >}})
