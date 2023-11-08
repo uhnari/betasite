@@ -1,7 +1,7 @@
 ---
 title: "Aether, Book One: Fugitive, Chapter One"
-subtitle:
-date: 2023-07-01 01:00:00-04:00
+subtitle: Subtitle test
+date: 2023-07-09 00:00:00-04:00
 draft: false
 tags:
   - aether
@@ -233,4 +233,4 @@ The young major Sanders enters colonel Dunn’s office with the news the older m
 
 &ensp; As soon as he clears his boss’s office, and is sure no one could see him, Sanders allows himself a small smile. The old man was losing it. So long as Sanders kept his ass covered, he should get the colonel’s job even sooner than he thought.
 
-### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{<ref "aech2">}}) 

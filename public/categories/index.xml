@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Uhnari</title>
+    <link>https://uhnari.netlify.app/categories/</link>
+    <description>Recent content in Categories on Uhnari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 01:00:00 -0400</lastBuildDate><atom:link href="https://uhnari.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aetherseries</title>
+      <link>https://uhnari.netlify.app/categories/aetherseries/</link>
+      <pubDate>Sun, 02 Jul 2023 01:00:00 -0400</pubDate>
+      
+      <guid>https://uhnari.netlify.app/categories/aetherseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>https://uhnari.netlify.app/categories/fiction/</link>
+      <pubDate>Sun, 02 Jul 2023 01:00:00 -0400</pubDate>
+      
+      <guid>https://uhnari.netlify.app/categories/fiction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ baseURL: https://uhnari.netlify.app/ # Replace with your domain
 languageCode: en-us
 theme: smigle
 title: Uhnari
-summaryLength: 50
+summaryLength: 100
 
 menu:
   main:
@@ -16,44 +16,39 @@ menu:
     - identifier: archive
       name: Archive
       url: /posts/
-      weight: 6
+      weight: 3
 
     - identifier: aether series
       name: Aether Series
       url: /categories/aetherseries/
-      weight: 5
+      weight: 2
 
 #PROFFESIONAL
     - identifier: services
       name: Services
       url: /services/
-      weight: 3
-
-    - identifier: contact
-      name: Contact
-      url: /contact
-      weight: 4
+      weight: 7
 
     - identifier: about
-      name: About
+      name: About / Contact
       url: /about/
-      weight: 2
+      weight: 8
 
 #SEARCH
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 8
+      weight: 5
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 9
+      weight: 6
 params:
   abbrDateFmt: "Jan 02"
   author: "Robert Uhnari"
   brandIconFile: "images/profile.gif"
   dateFmt: "Monday, 2006-01-02"
-  subtitle: "Freelance Writer and Novelist"
+  subtitle: "Freelance Writer, Aspiring Novelist."
   ##
   ## Options for overriding theme or page defaults
   ##

@@ -1,10 +1,11 @@
 ---
-title: About
+title: About / Contact
 layout: default
 ---
-Hi. I'm Robert Uhnari. My real name is generic and boring so I chose Uhnari as a penname, hoping it'll really grab reader's attention.
+Hi. I'm Robert Uhnari. Welcome to my site, where I post all of my freelance writing work and passion projects. My experience writing mostly consists of writing and running DnD campaigns and making my own TTRPG systems. I've written a few short stories and am currently undertaking the massive project of writing a novel while backpacking around the world.
 
-On top of being a freelance writer working on my debut novel, I'm also a digital nomad. I've been doing Workaway for months and stayed in places all across America, hopefully by now I'm backpacking across Europe, so if you need someone to help with random projects, chores, farmwork, etc—in exchange for room and board—hit me up, I never know where I'm going next so maybe I'll be in your area.
+If you are interested in collaborating on a project, have any questions, or would like to commision me for a job, feel free to contact me.
+
 
 &ensp;
 

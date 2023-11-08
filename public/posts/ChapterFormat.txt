@@ -1,0 +1,19 @@
+---
+title: "Aether, Book One: Fugitive, Chapter X."
+date: 2023-07-01 01:00:00-04:00
+draft: false
+tags:
+  - aether
+  - science
+  - fiction
+  - adventure
+  - scifi
+  - rachel
+  - ross
+categories:
+  - aetherseries
+  - fiction
+---
+### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})
+
+ ### [Synopsis]({{< ref "aech0" >}}) < Chapter 1 > [Chapter 2]({{< ref "aech2" >}})

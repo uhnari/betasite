@@ -1,6 +1,7 @@
 ---
 title: "Aether, Book One: Fugitive, Synopsis"
-date: "2023-07-01 00:00:00"
+subtitle:
+date: 2023-07-02 00:00:00
 draft: false
 tags:
   - aether
